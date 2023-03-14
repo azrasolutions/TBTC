@@ -14,4 +14,8 @@
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in>
 	</site>
+	<site url="tbtcapp01.tbc.local">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in>
+	</site>
 	</site-list>
