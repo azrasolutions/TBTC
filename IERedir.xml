@@ -1,0 +1,17 @@
+<site-list version="205">
+	<!-- File creation header -->
+	<created-by>
+		<tool>EnterpriseSitelistManager</tool>
+		<version>10240</version>
+		<date-created>20150728.135021</date-created>
+	</created-by>
+  	<!-- Begin Site List --> 
+	<site url="*.telstra.com">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in>
+	</site>
+	<site url="*.telstra.com.au">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in>
+	</site>
+	</site-list>
