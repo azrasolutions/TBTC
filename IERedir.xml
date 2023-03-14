@@ -21,4 +21,5 @@
 	<site url="https://sa.auth.thyra.telstra.com/">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in>
+	</site>
 	</site-list>
